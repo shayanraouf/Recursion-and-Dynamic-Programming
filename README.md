@@ -1,2 +1,3 @@
 # Recursion and Dynamic Programming
-Implementations of Catalans Number and The Greedy Robot Problem
+[Project Description](https://github.com/shayanraouf/Recursion-and-Dynamic-Programming/blob/master/lab2_342.pdf)
+
